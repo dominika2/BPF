@@ -7,7 +7,7 @@ BPF @ Youtube
 
 
 
-<h2>Web links:<h2>
+<h2>Web links:</h2>
 
 Original McCanne / Van Jacobson article
 http://www.tcpdump.org/papers/bpf-usenix93.pdf
